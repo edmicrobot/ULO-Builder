@@ -26,7 +26,7 @@ fwdriver_path="./core/root/lib"
 ulo_repo="https://github.com/edmicrobot/ULO-repository"
 
 # Repositori ROOTFS kustom pada rilis
-rootfs_repo="armarchindo/rootfs-openwrt"
+rootfs_repo="https://github.com/edmicrobot/ULO-Builder/releases"
 
 # Atur ke 'true' untuk mengaktifkan, atau 'false' untuk menonaktifkan
 DOWNLOAD_CUSTOM_KERNEL=false
